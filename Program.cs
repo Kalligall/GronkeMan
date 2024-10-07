@@ -2,6 +2,7 @@
 {
     public static void Main(string[] args)
     {
-        //ett konsolspel där du går in i rum som är 10x10 med olika objects och enemies/traps i dessa rum.
+        //a console game where we can navigate through rooms of 10x10 areas that will contain enemies/traps/treasure to advance through the
+        //level to ultimately defeat a boss.
     }
 }
