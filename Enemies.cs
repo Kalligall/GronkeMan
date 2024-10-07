@@ -1,6 +1,6 @@
 namespace Enemies
 {
-    class Enemy
+    public class Enemy
     {
         //Create different types of enemies with baseline stats.
     }
